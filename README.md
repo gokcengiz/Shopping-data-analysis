@@ -1,7 +1,6 @@
 # Customer Shopping Data Analysis
 
-![alt text](https://www.marketingturkiye.com.tr/wp-content/uploads/2022/09/alisveris-merkezi.png)
-
+![alt text](https://github.com/gokcengiz/Shopping-data-analysis/blob/main/dashboard.jpg?raw=true)
 ### About Dataset
 
 The project is based on the Customer Shopping Dataset - Retail Sales Data provided by Kaggle. 
