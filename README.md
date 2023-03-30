@@ -1,6 +1,7 @@
 # Customer Shopping Data Analysis
 
-![alt text](https://github.com/gokcengiz/Shopping-data-analysis/blob/main/dashboard.jpg?raw=true)
+![alt text](https://github.com/gokcengiz/Shopping-data-analysis/blob/main/pbi.jpg?raw=true)
+
 ### About Dataset
 
 The project is based on the Customer Shopping Dataset - Retail Sales Data provided by Kaggle. 
